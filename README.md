@@ -13,7 +13,6 @@ You may not get the game running correctly.
 ## Get started
 ### Install
  - Download the `VitaArc.vpk` from the release page.  
- (random laughing) ~~cause now there's no release exists. XD~~
  - Connect your PSVita to PC via VitaShell and copy `VitaArc.vpk` into it.
  - Install VitaArc.
 
@@ -43,7 +42,8 @@ If you follows the tutorial correctly, The directory tree should be like
      - libcrashlytics-trampoline.so
      - ...
  - persistent
-### Play & PM
+### Play
  - Click VitaArc bubble.
  - Wait for the game load.
- - Try your best to `PM` all of the songs.
+
+## Building
